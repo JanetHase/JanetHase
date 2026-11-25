@@ -74,7 +74,7 @@
 ###
 
 <div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/janethase" target="_blank">
+  <a href="https://www.linkedin.com/in/janethase" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=in&color=0077B5&logoColor=white&labelColor=0077b5&style=flat" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/jane_hasearts/" target="_blank">
