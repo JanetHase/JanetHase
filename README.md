@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=60&section=header&reversal=false&text=Hello%20There!&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=e91e63&strokeWidth=3&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=e44b8d"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=60&section=header&reversal=false&text=Hello%20There!&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=e91e63&strokeWidth=3&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=e44b8d"  />
 </div>
 
 ###
@@ -14,7 +14,7 @@
 
 ###
 
-<h5 data-importer="text" align="center">💻 SRE/DevOps engineer<br>🐛 Creating bugs since 2004!!! <br>📜 Currently learning PyTorch<br>🎯 My current goal is to get more AWS certs</h5>
+<h5 data-importer="text" align="center">💻 SRE/DevOps engineer<br>🐛 Creating bugs since 2004!!! <br>📜 I'm learning PyTorch<br>🎯 My current goal is to get more AWS certs</h5>
 
 ###
 
