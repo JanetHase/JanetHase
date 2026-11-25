@@ -101,4 +101,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JanetHase/JanetHase/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-###
