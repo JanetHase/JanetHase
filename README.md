@@ -6,7 +6,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/b6njz1.gif"  />
+<img data-importer="image" align="right" height="150" src="Jane3 croped.gif"  />
 
 ###
 
